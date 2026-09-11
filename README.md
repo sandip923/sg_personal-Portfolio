@@ -1,4 +1,4 @@
-# CodeAlpha Portfolio
+# Personal Portfolio
 
 A modern and responsive Personal Portfolio Website developed using HTML, CSS, and JavaScript as part of my CodeAlpha Frontend Development Internship.
 
